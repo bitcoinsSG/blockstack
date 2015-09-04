@@ -7,3 +7,5 @@ Blockstack is shorthand for "the blockchain stack". It is a collection of protoc
 The various components include data storage, secure naming, authentication, user identity verification, content ownership verification, and product trading. 
 
 This stack is completely decentralized and only uses open source software.
+
+// need to add explicit information about how open source the software is in terms of license, may even summarize the license in layman's terms.
